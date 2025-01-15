@@ -22,20 +22,6 @@
 			{
 				"constant": true,
 				"inputs": [],
-				"name": "getMessage",
-				"outputs": [
-					{
-						"name": "",
-						"type": "string"
-					}
-				],
-				"payable": false,
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"constant": true,
-				"inputs": [],
 				"name": "message",
 				"outputs": [
 					{
@@ -79,9 +65,9 @@
 	},
 	"sources": {
 		"contracts/3_Ballot.sol": {
-			"keccak256": "0x7c66d7d14d219c8d4e447de007692fbc370a445832fec5a4b9d095c324b8ae3f",
+			"keccak256": "0xe52bc3a07283110f40b7eb67bc43f003f55669730d889c48c4daf8f4c861e1ad",
 			"urls": [
-				"bzzr://1437e634aebf23678b53e1ece5ede2386fe5bf5c656f47482347b905addd319e"
+				"bzzr://ba06dd7fe52e2ac496fce9fb042888e4fb9dba00bb059a63690c5440c27c7e7d"
 			]
 		}
 	},

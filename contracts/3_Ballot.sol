@@ -15,13 +15,8 @@ contract Inbox {
         message = initialMessage;
     }
 
-    // function we can call on a contract
+    // function we can call on a contract to set new message
     function setMessage(string newMessage) public {
         message = newMessage;
-    }
-
-    // function we can call on a contract
-    function getMessage() public view returns (string){
-        return message;
     }
 }
